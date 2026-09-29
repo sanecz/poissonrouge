@@ -3,6 +3,8 @@
 A terminal UI to explore and interact with Redfish management API. Browse, inspect json, discover and send GET/POST/PATCH/PUT/DEL requests to manage servers.
 
 
+![Demo](assets/demo.png)
+
 Built with [Textual](https://textual.textualize.io/) <3
 
 ## Features
